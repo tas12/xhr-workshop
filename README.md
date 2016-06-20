@@ -17,7 +17,7 @@ There are four main parts to an xhr request:
 This will store your xhr request which you can access using the various properties and methods that come with it. [see here](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
   `var xhr = new XMLHttpRequest()`
 
-Properties we'll use: `onreadystatechange`, `readyState`, `status`, `response`(in the code along example)
+Properties we'll use: `onreadystatechange`, `readyState`, `status`, `response (in the code along example)`
 
 Methods we'll use: `open()`, `send()`
 
