@@ -12,7 +12,9 @@ The XMLHttpRequest object gives you access to a number of methods that enable yo
 
 There are four main parts to an xhr request:
 
-### 1. Create an instance of the XMLHttpRequest object. This will store your xhr request which you can access using the various properties and methods that come with it. [see here](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
+### 1. Create an instance of the XMLHttpRequest object. 
+
+This will store your xhr request which you can access using the various properties and methods that come with it. [see here](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
   `var xhr = new XMLHttpRequest()`
 
 ### 2. Listen for a change to the status of your request
